@@ -11,7 +11,7 @@
 
 <br>
 
-###  &#x1f4c8; Fields interseted towards :-
+### 	&#x1F4BB; Fields interseted towards :-
 
 - Neural Networks
 - Data Analysis
