@@ -20,6 +20,19 @@
 
 ## 🔧 Technologies & Tools
 
+- Html
+- Css
+- Bootstrap
+- Js
+- Node
+- React
+- Python
+- Neural Networks
+- Keras
+- Django
+- Django rest-framework
+- numpy
+- Vscode
 
 
 
