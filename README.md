@@ -11,7 +11,7 @@
 
 <br>
 
-### Fields interseted towards :-
+###  &#x1f4c8 Fields interseted towards :-
 
 - Neural Networks
 - Data Analysis
@@ -24,7 +24,7 @@
 
 <br />
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 <br>
 
@@ -46,9 +46,7 @@
 
 <br>
 
----
-
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NarayanKrishna/NarayanKrishna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXalchemist&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
