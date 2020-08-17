@@ -20,8 +20,7 @@
 <br>
 
 ### 🎧 Spotify Playing
-[<img src=novatorem-git-master.xxalchemist.vercel.app
-" alt="XXlchemist Spotify Playing" width="350" />](https://open.spotify.com/user/hthie2n6xbwuk88t8aht3iwq2)
+[<img src="https://novatorem-git-master.xxalchemist.vercel.app/api/spotify-playing" alt="XXlchemist Spotify Playing" width="350" />](https://open.spotify.com/user/hthie2n6xbwuk88t8aht3iwq2)
 
 <br />
 
