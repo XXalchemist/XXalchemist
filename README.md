@@ -20,7 +20,8 @@
 <br>
 
 ### 🎧 Spotify Playing
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="XXlchemist Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src=novatorem-git-master.xxalchemist.vercel.app
+" alt="XXlchemist Spotify Playing" width="350" />](https://open.spotify.com/user/hthie2n6xbwuk88t8aht3iwq2)
 
 <br />
 
