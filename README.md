@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on EDA.
 - 🌱 I’m currently learning ...... endless stream 
 - 🤔 I’m looking for help with React, DL, EDA.
-- 💬 2020 Goals : Contribute to DL repos.
+- 💬 2020 Goals : Contribute to DL repos and learn EDA at its best.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Fun fact: Coffee + Music === Coma.
 
