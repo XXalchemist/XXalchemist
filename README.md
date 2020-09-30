@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on EDA.
+- 🔭 I’m currently working on ML Algo's.
 - 🌱 I’m currently learning ...... endless stream 
-- 🤔 I’m looking for help with React, DL, EDA.
+- 🤔 I’m looking for help with DL, EDA.
 - 💬 2020 Goals : Contribute to DL repos and learn EDA at its best.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Fun fact: There is NO FUN x.
