@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with DL, EDA.
 - 💬 2020 Goals : Contribute to DL repos and learn EDA at its best.
 - 📫 How to reach me: nkrishn8@gmail.com.
-- ⚡ Quote: "What doesn't kills you simply makes you stronger."
+- ⚡ Quote: "What doesn't kill you simply make you *stronger*"
 
 <br>
 
