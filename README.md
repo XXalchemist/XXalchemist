@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Selenium.
 - 🌱 I’m currently learning ...... endless stream 
-- 🤔 I’m looking for help with DL, EDA.
 - 💬 2020 Goals : Contribute to DL repos and learn EDA at its best.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Quote: "What doesn't kill you simply make you *stronger*"
