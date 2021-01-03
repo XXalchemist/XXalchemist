@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Selenium.
 - 🌱 I’m currently learning ...... endless stream 
-- 💬 2020 Goals : Contribute to DL repos and learn EDA at its best.
+- 💬 2021 Goals : Learn Backend with java and python.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Quote: "What doesn't kill you simply make you *stronger*"
 
