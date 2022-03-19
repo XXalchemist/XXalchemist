@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Selenium.
-- 🌱 I’m currently learning ...... endless stream 
-- 💬 2021 Goals : Learn Backend with java and python.
+- 🔭 I’m currently working on Jenkins.
+- 🌱 I’m currently learning Devops engineering. 
+- 💬 2022 Goals : Learn Backend with java and python.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Quote: "What doesn't kill you simply make you *stronger*"
 
@@ -16,6 +16,7 @@
 - Data Analysis
 - Web Development
 - Automation
+- Devops
 
 <br>
 
