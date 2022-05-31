@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Jenkins.
-- 🌱 I’m currently learning Devops engineering. 
+- 🌱 I’m currently learning dsa and full stack web development
 - 💬 2022 Goals : Learn Backend and frontend with javascript.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Quote: "What doesn't kill you simply make you *stronger*"
