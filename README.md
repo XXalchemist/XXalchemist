@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Jenkins.
+- 🔭 I’m currently working on Cucumber.
 - 🌱 I’m currently learning dsa and full stack web development
-- 💬 2022 Goals : Learn Backend and frontend with javascript.
+- 💬 2023 Goals : Learn angular.
 - 📫 How to reach me: nkrishn8@gmail.com.
 - ⚡ Quote: "What doesn't kill you simply make you *stronger*"
 
